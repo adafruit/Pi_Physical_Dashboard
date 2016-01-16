@@ -1,0 +1,4 @@
+flask
+requests
+-e git://github.com/adafruit/Adafruit_Python_LED_Backpack.git#egg=Adafruit-LED-Backpack
+-e git://github.com/adafruit/Adafruit-Motor-HAT-Python-Library.git#egg=Adafruit-MotorHAT
